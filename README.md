@@ -119,8 +119,8 @@ Each blog post can have multiple comments stored as subdocuments:
        ```
        Replace `<your_github_repo_url>` with your personal GitHub repository URL.
     3. Commit and push the files to your GitHub repository:
-       ```bash
-       git add .
+       ```bash       git add .
+
        git commit -m "Completed the assignment"
        git push -u origin main
        ```
